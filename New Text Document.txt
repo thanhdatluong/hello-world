@@ -22,11 +22,7 @@ References
 ++
 
 =====
-download.sutrix.com/sutrix/Mobile%20Landing_Template.psd
-download.sutrix.com/sutrix/Desktop%20Landing%20_Template.psd
-download.sutrix.com/sutrix/Mobile%20Landing_Template%2002.psd
-download.sutrix.com/sutrix/Desktop%20landing_Template%2002.psd
-sutrix / 15bluesky$
+
 =====
 References
  CSS:  http://www.w3schools.com/css/default.asp  http://reference.sitepoint.com/css  http://www.cssbasics.com  https://developer.mozilla.org/en/CSS  https://developer.mozilla.org/enUS/docs/Web/Guide/CSS/Writing_efficient_CSS  http://websitetips.com/articles/css/sprites  http://www.impressivewebs.com/difference-block-inline-css  http://blog.themeforest.net/tutorials/vertical-centering-with-css  http://lesliefranke.com/files/reference/csscheatsheet.html  http://alistapart.com/article/responsive-web-design  http://hicksdesign.co.uk/boxmodel  http://dustindiaz.com/css-shorthand  http://lesscss.org  http://sass-lang.com
